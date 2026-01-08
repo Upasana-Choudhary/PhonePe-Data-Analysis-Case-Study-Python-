@@ -111,5 +111,5 @@ The insights can help businesses and policymakers identify growth opportunities 
 **Upasana Choudhary**
 Data Analyst | Python | Data Visualization
 
-📎 LinkedIn: *(add your profile link)*
-📎 GitHub: *(this repository)*
+📎 LinkedIn: www.linkedin.com/in/upasana-choudhary-853ab6a7
+📎 GitHub: https://github.com/Upasana-Choudhary/PhonePe-Data-Analysis-Case-Study-Python-/blob/main/phonepe%20case%20study.ipynb
